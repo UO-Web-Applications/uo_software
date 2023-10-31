@@ -1,0 +1,18 @@
+{
+  "name": "uo-web-applications/uo_software",
+  "description": "UO Software serves UO software site to get files info from Azure.",
+  "type": "drupal-module",
+  "homepage": "https://devservices.uoregon.edu/",
+  "authors": [
+      {
+          "name": "UO Information Services Web Applications Team",
+          "homepage": "https://devservices.uoregon.edu/",
+          "role": "Maintainer"
+      }
+  ],
+  "support": {
+      "source": "https://github.com/UO-Web-Applications/uo_software"
+  },
+  "license": "",
+  "minimum-stability": "dev"
+}
